@@ -144,3 +144,35 @@ button {
     margin: 0 auto;
 }
 
+.action {
+    height: 450px;
+    background-color: white;
+    display: flex;
+}
+
+.container  {
+    margin: auto 200px;
+    background-color: #3882f6;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    padding: 20px 50px;
+    
+}
+
+.container h3 {
+    color: white;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.action-text {
+    width: 700px;
+    color: #e5e7eb;
+}
+
+.container button {
+    border: solid white 2px;
+    padding: 5px 30px;
+
+}
