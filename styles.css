@@ -95,7 +95,7 @@ button {
 .info-content {
     display: flex;
     justify-content: space- space-between;
-    gap: 100px;
+    gap: 50px;
     margin-top: 50px;
     
 }
@@ -118,3 +118,29 @@ button {
     color: gray;
     font-weight: 500;
 }
+
+.quote {
+    background-color: #e5e7eb;
+   
+    padding: 50px;
+}
+
+.quote p {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+    max-width: 800px;
+    width: 100%;
+    text-align: left;
+    margin: 0 auto;
+    
+}
+
+h3 {
+    font-size: 24px;
+    text-align: right;
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+}
+
